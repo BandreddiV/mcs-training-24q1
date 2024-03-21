@@ -33,5 +33,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# # Ignoring vars.sh file
-# default_vars.sh
+# Ignoring vars.sh file
+default_vars.sh
